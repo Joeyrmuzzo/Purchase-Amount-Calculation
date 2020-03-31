@@ -1,0 +1,13 @@
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\bin\Debug\cis final 3.exe.config
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\bin\Debug\cis final 3.exe
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\bin\Debug\cis final 3.pdb
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.csprojResolveAssemblyReference.cache
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.csproj.CoreCompileInputs.cache
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.exe
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis final 3\cis final 3\bin\Debug\cis final 3.exe.config
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis final 3\cis final 3\bin\Debug\cis final 3.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis final 3\cis final 3\bin\Debug\cis final 3.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis final 3\cis final 3\obj\Debug\cis final 3.csprojResolveAssemblyReference.cache
